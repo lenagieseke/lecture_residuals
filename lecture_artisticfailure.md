@@ -45,34 +45,17 @@ layout:false
 
 
 
-
-
 ---
-## Who am I?
+layout:false
 
-* Master in Fine Art (MFA Dramatic Media)
-* 6 years in the industry (VFX, R&D, Software Development)
-* Phd in Computer Science (Dr. rer. nat. Computer Graphics)
+## Introduction
 
---
-
-<br />
-
-* Film University Babelsberg KONRAD WOLF, Potsdam, Germany
-* Professor for Image-based Media Technologies
-* MA Creative Technologies
+* [Lena Gieseke ⬀](https://www.lenagieseke.com/)
+* [Film University Babelsberg KONRAD WOLF ⬀](https://www.filmuniversitaet.de/), Potsdam, Germany
+* [MA Creative Technologies ⬀](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies) (Instagram: [ctech.filmuniversity ⬀](https://www.instagram.com/ctech.filmuniversity/))
 
 > Computer Science meets Creativity, Art & Film...
 
----
-.header[MA Creative Technologies]
-
-.center[[<img src="./img/qr_filmunictech.png" alt="qr_filmunictech" style="width:45%;">](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies)]
-
----
-.header[MA Creative Technologies]
-
-.center[[<img src="./img/qr_filmuniinsta.png" alt="qr_filmuniinsta" style="width:45%;">](https://www.instagram.com/ctech.filmuniversity/)]
 
 ---
 template:inverse
@@ -350,8 +333,7 @@ template: inverse
 
 .left-quarter[Production residuals:]
 .right-quarter[<img src="./img/rodin_01.jpg" alt="rodin_01" style="width:50%;">  <img src="./img/rodin_03.jpg" alt="rodin_03" style="width:40%;">  
-*Assemblage: Mask of Camille Claudel and left hand of Pierre de Wissant*, Auguste Rodin, ca. 1895  
-.imgref[[Image: [The Musée Rodin](https://www.musee-rodin.fr/en/musee/collections/oeuvres/assemblage-mask-camille-claudel-and-left-hand-pierre-de-wissant)]]]
+*Assemblage: Mask of Camille Claudel and left hand of Pierre de Wissant*, Auguste Rodin, ca. 1895 .imgref[[Image: [The Musée Rodin](https://www.musee-rodin.fr/en/musee/collections/oeuvres/assemblage-mask-camille-claudel-and-left-hand-pierre-de-wissant)]]]
 
 
 ???
@@ -367,8 +349,7 @@ Work does not depict making, it is making made visible.
 
 .left-quarter[Silent compositions]
 .right-quarter[<img src="./img/allais_01.jpeg" alt="allais_01" style="width:70%;">  
-*Funeral March for the Obsequies of a Deaf Man*, Alphonse Allais, 1897  
-.imgref[[Image: [Wikipedia -  Allais' Funeral March](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3#/media/File:Marche_fun%C3%A8bre_compos%C3%A9e_pour_les_fun%C3%A9railles_d'un_grand_homme_sourd_-_Alphonse_Allais.jpeg)]]]
+*Funeral March for the Obsequies of a Deaf Man*, Alphonse Allais, 1897 .imgref[[Image: [Wikipedia -  Allais' Funeral March](https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3#/media/File:Marche_fun%C3%A8bre_compos%C3%A9e_pour_les_fun%C3%A9railles_d'un_grand_homme_sourd_-_Alphonse_Allais.jpeg)]]]
 
 ???
 * Funeral March may have motivated John Cage's famous 4′33″
@@ -383,7 +364,7 @@ Work does not depict making, it is making made visible.
 
 .left-quarter[Indeterminate Music]
 
-.right-quarter[<img src="./img/brown_01.png" alt="brown_01" style="width:80%;">  
+.right-quarter[<img src="./img/brown_01.png" alt="brown_01" style="width:70%;">  
 *Score for December 1952 from Folio and 4 Systems*, Earle Brown, 1952
 .imgref[[Image: [getty.edu - Score for December 1952](https://www.getty.edu/publications/scores/object-index/301/#fig-301-a)]]]
 
@@ -421,8 +402,7 @@ So it is aleatoric in spirit, but specifically a form of performer-driven indete
 .left-quarter[Glitch Art]
 
 .right-quarter[<img src="./img/glitch_02.jpg" alt="glitch_02" style="width:77%;">  
-*Glitch Studies Manifesto*, Rosa Menkman, 2010  
-.imgref[[Image: [Glitch Studies Manifesto](https://beyondresolution.info/Glitch-Studies-Manifesto)]]]
+*Glitch Studies Manifesto*, Rosa Menkman, 2010 .imgref[[Image: [Glitch Studies Manifesto](https://beyondresolution.info/Glitch-Studies-Manifesto)]]]
 
 
 ---
@@ -958,8 +938,7 @@ For artistic practice: feeding models ekphrases — verbal descriptions of exist
 ]
   
 
-.right-quarter[<img src="./img/beagle_01.png" alt="beagle_01" style="width:60%;">  
-.imgref[[Image: [[squirrel365.io](https://squirrel365.io/ai-generated-images-in-squirrel/)]]]]
+.right-quarter[<img src="./img/beagle_01.png" alt="beagle_01" style="width:60%;"> .imgref[[Image: [[squirrel365.io](https://squirrel365.io/ai-generated-images-in-squirrel/)]]]]
 
 ---
 .header[Residuals in Generative AI | Representation & Training]
@@ -1491,7 +1470,7 @@ The failure is testimony.
 
 .center[
  <video width="960" controls>
-  <source src="./img/zizzi_cutout_02.mp4" type="video/webm">
+  <source src="./img/zizzi_cutout_02.webm" type="video/webm">
 </video>  
 ]
 
@@ -1549,7 +1528,7 @@ The visuals are created with an image generating diffusion model with Sontag’s
 
 .center[
  <video width="960" controls>
-  <source src="./img/sonntag_cutout_01.mp4" type="video/webm">
+  <source src="./img/sonntag_cutout_01.webm" type="video/webm">
 </video>  
 ]
 
@@ -1620,7 +1599,7 @@ The first series used GAN-style competing networks without data and produced abs
 
 .center[
  <video width="520" controls>
-  <source src="./img/broad_cut_01.mp4" type="video/webm">
+  <source src="./img/broad_cut_01.webm" type="video/webm">
 </video>  
 ]
 
@@ -1788,7 +1767,7 @@ Crucial beyond technical exploration:
 --
   
 <br />
-> Possible residuals are time sensitive.
+> Possible residuals are time sensitive in how meaningful and interesting they are.
 
 ???
 * Framing shapes interpretation.
@@ -1804,8 +1783,8 @@ As models improve, errors and become rarer and more historically specific materi
 ---
 template:inverse
 
-### *The engineer fixes the bug.*
-### *The artist works with the bug.*
+### *Fix the bug.*
+### *Or... work with the bug!*
 
 
 ???
@@ -1821,10 +1800,6 @@ Students should understand:
 
 ---
 template:inverse 
-
-.center[
-<img src="./img/qr_lectureresiduals.png" style="width:20%;">
-]
 
 
 # *The End*
